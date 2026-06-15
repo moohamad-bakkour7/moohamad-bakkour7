@@ -2,20 +2,25 @@
 
 💻 Information Technology Engineer & Software Developer
 
-## About Me
-- Passionate about software development
-- Building modern web applications
-- Learning new technologies
-- Solving real-world problems
+Passionate about building efficient, scalable, and user-friendly software solutions. Always learning new technologies and turning ideas into real-world applications.
 
-## Skills
-- HTML
-- CSS
+## 🚀 Skills
+
+- HTML5
+- CSS3
 - JavaScript
 - PHP
 - Python
 - SQL
 - Git & GitHub
 
-## Contact
+## 🎯 Current Focus
+
+- Web Development
+- Software Engineering
+- Problem Solving
+- Open Source Projects
+
+## 📫 Connect With Me
+
 - GitHub: @moohamad-bakkour7
