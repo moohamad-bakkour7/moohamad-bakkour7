@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mohammad Bakour 👋
 
-<!--
-**moohamad-bakkour7/moohamad-bakkour7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Information Technology Engineer & Software Developer
 
-Here are some ideas to get you started:
+## About Me
+- Passionate about software development
+- Building modern web applications
+- Learning new technologies
+- Solving real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Python
+- SQL
+- Git & GitHub
+
+## Contact
+- GitHub: @moohamad-bakkour7
